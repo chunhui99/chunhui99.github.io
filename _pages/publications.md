@@ -5,22 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Papers in Refereed Conferences
+1. **M2DF: Multi-grained Multi-curriculum Denoising Framework for Multimodal Aspect-based Sentiment Analysis** <br>
+*Fei Zhao\*, **Chunhui Li**\*, Zhen Wu, Yawen Ouyang, Jianbing Zhang, Xinyu Dai* <br>
+EMNLP 2023 | <a href="https://aclanthology.org/2023.emnlp-main.561.pdf" target="_blank">PDF</a> | <a href="https://github.com/grandchicken/M2DF" target="_blank">Code</a>
 
-1. **Scalable Multi-Party Private Set Union from Multi-Query Secret-Shared Private Membership Test** <br>
-*Xiang Liu, Ying Gao* <br>
-<a href="https://asiacrypt.iacr.org/2023/" target="_blank">ASIACRYPT 2023</a> | <a href="https://eprint.iacr.org/2023/1413" target="_blank">eprint</a> | <a href="https://github.com/lx-1234/MPSU" target="_blank">code</a> | <a href="https://iacr.org/submit/files/slides/2023/asiacrypt/asiacrypt2023/22/slides.pdf" target="_blank">slides</a> | <a href="https://www.youtube.com/watch?v=V-a1T2a7hwo&t=158s" target="_blank">video</a>
+1. **DRIN: Dynamic Relation Interactive Network for Multimodal Entity Linking** <br>
+*Shangyu Xing\*, Fei Zhao\*, Zhen Wu, **Chunhui Li**, Jianbing Zhang and Xinyu Dai* <br>
+ACM MM 2023 | <a href="https://dl.acm.org/doi/abs/10.1145/3581783.3612575" target="_blank">PDF</a> | <a href="https://github.com/starreeze/drin" target="_blank">Code</a>
 
-
-## Journal Papers
-
-1. **Survey on Oblivious Transfer Protocols** <br>
-*Ying Gao, Hanyu Li, Wei Wang, Xiang Liu, Jie Chen* <br>
-<a href="https://www.jos.org.cn/josen/home?id=20210909102939001&name=English" target="_blank">Journal of Software</a> 2023 | <a href="https://www.jos.org.cn/josen/article/abstract/6692?st=search" target="_blank">pdf</a>
-
-2. **Fast Software Implementation of ZUC Algorithm** <br>
-*Yupeng Zhang, Ying Gao, Yu Yan, Xiang Liu* <br>
-<a href="http://www.jcr.cacrnet.org.cn/EN/home" target="_blank">Journal of Cryptologic Research</a> 2021 | <a href="http://www.jcr.cacrnet.org.cn/EN/10.13868/j.cnki.jcr.000446" target="_blank">pdf</a>
+1. **Learning from Different text-image Pairs: A Relation-enhanced Graph Convolutional Network for Multimodal NER** <br>
+*Fei Zhao, **Chunhui Li**, Zhen Wu, Shangyu Xing, Xinyu Dai* <br>
+ACM MM 2022 | <a href="https://dl.acm.org/doi/10.1145/3503161.3548228" target="_blank">PDF</a> | <a href="https://github.com/1429904852/R-GCN" target="_blank">Code</a>
 
 
 
