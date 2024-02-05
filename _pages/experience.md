@@ -5,10 +5,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-为了完善你提供的信息并形成一个更为完整和格式化的网页内容，我们可以按照以下结构进行编辑：
-
----
-
 ## Education
 
 ### Bachelor
