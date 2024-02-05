@@ -44,7 +44,7 @@ author_profile: true
 
 ### Teaching Assistant
 
-#### Natural Language Processing (Undergraduate)
+1. Natural Language Processing (Undergraduate)
 - **University:** Nanjing University
 - **Term:** Spring 2022
 
