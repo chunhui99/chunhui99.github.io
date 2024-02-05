@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiang Liu"
+title                    : "Chunhui Li"
 title_separator          : "-"
-name                     : &name "Xiang Liu"
+name                     : &name "Chunhui Li"
 description              : &description "personal homepage"
-url                      : https://lx-1234.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chunhui99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lx-1234/lx-1234.github.io"
+repository               : "chunhui99/chunhui99.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiang Liu"
-  avatar           : "barebear.jpg"
-  bio              : "Master Student in Crypto"
-  location         : "Beijing, China"
+  name             : "Chunhui Li"
+  avatar           : "grandchicken.jpg"
+  bio              : "Master Student in Computer Science"
+  location         : "Nanjing, Jiangsu"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=vwRYMjUAAAAJ&hl=en-US"
-  email            : "lx1234@buaa.edu.cn"
+  googlescholar    : 
+  email            : "lich@smail.nju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lx-1234"
+  github           : "grandchicken"
   google_plus      :
   keybase          :
   instagram        :
