@@ -8,6 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student of cyber security at the <a href="http://cst.buaa.edu.cn/">School of Cyber Science and Technology</a> in <a href="https://ev.buaa.edu.cn/">Beihang University</a>, under the supervision of A/Prof. Ying Gao. I received my Bachelor's degree from <a href="https://ev.buaa.edu.cn/">Beihang University</a>.
+### About me
 
-My main research interests are **multiparty computation**, such as private set operations and oblivious transfer. I am also interested in zero-knowledge proof and lattice-based cryptography. Now I am looking for a Ph.D. position in cryptography.
+I am currently pursuing my Master's degree at the <a href="https://ai.nju.edu.cn/main.htm">School of Artificial Intelligence</a>, <a href="http://nlp.nju.edu.cn/homepage/">NJUNLP Group</a> in <a href="https://www.nju.edu.cn/">Nanjing University</a> supervised by <a href="https://ai.nju.edu.cn/daixinyu/index.htm">Prof. Xinyu Dai</a>. I completed my Bachelor's degree in <a href="https://www.buaa.edu.cn/">Beihang University</a>, majoring in Information Management and Information System , and also pursued a minor in Mathematics.
+I am an incoming Ph.D. Student in the <a href="https://ece.hkust.edu.hk/">Department of Electronic & Computer Engineering</a> at <a href="https://hkust.edu.hk/">HKUST</a>, under the supervision of <a href="https://ling-pan.github.io/">Prof. Ling Pan</a>.
+
+I am interested in topics such as Large Language Models, Reinforcement Learning, and GFlowNet, which will also be the focus of my efforts during my PhD studies.
+
+### Publications
+
+M2DF: Multi-grained Multi-curriculum Denoising Framework for Multimodal Aspect-based Sentiment Analysis
+
+Fei Zhao*, Chunhui Li*, Zhen Wu, Yawen Ouyang, Jianbing Zhang and Xinyu Dai
+EMNLP, 2023
+
+
+### Experience
+
+###
