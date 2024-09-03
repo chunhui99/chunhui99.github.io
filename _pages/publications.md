@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. **Bifurcated Generative Flow Networks** <br>
-  ***Chunhui Li**, Cheng-Hao Liu, Dianbo Liu, Qingpeng Cai, Ling Pan* <br>
+  ***Chunhui Li\***, Jiashun Liu*, Cheng-Hao Liu, Dianbo Liu, Qingpeng Cai, Ling Pan* <br>
   Preprint | <a href="https://arxiv.org/pdf/2406.01901">PDF</a> <br>
 
 2. **MultiSQL: A Schema-Integrated Context-Dependent Text2SQL Dataset with Diverse SQL Operations** <br>
